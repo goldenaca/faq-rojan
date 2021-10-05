@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -147,6 +146,76 @@ function App() {
             <p className="false">
               respuesta para la pregunta que singifica que algo singidifca que
               algo saifnasf safk asj fsaj saj
+            </p>
+          </li>
+          <li className="faq-question">
+            <div className="faq-question-close">
+              <p>pregunta numero: 13</p>
+              <i onClick={questionHandler} class="fas fa-chevron-down"></i>
+            </div>
+            <p className="false">
+              respuesta para la pregunta que singifica que algo singidifca que
+              algo saifnasf safk asj fsaj saj
+            </p>
+          </li>
+        </ul>
+      </div>
+      <div className="faq-container">
+        <h1> TEMATICA " TEXTO DE EJEMPLO " </h1>
+        <ul className="faq-questions-container">
+          <li className="faq-question bor-bott">
+            <div className="faq-question-close">
+              <p>pregunta numero: 1</p>
+              <i onClick={questionHandler} class="fas fa-chevron-down"></i>
+            </div>
+            <p className="false">
+              respuesta para la pregunta que singifica que algo singidifca que
+              algo saifnasf safk asj fsaj sajaifnasf safk asj fsaj sajaifnasf
+              safk asj fsaj sajaifnasf safk asj fsaj sajaifnasf safk asj fsaj
+              sajaifnasf safk asj fsaj saj
+            </p>
+          </li>
+          <li className="faq-question bor-bott">
+            <div className="faq-question-close">
+              <p>pregunta numero: 2</p>
+              <i onClick={questionHandler} class="fas fa-chevron-down"></i>
+            </div>
+            <p className="false">
+              respuesta para la pregunta que singifica que algo singidifca que
+              algo saifnasf safk asj fsaj sajaifnasf safk asj fsaj saj
+            </p>
+          </li>
+          <li className="faq-question bor-bott">
+            <div className="faq-question-close">
+              <p>pregunta numero: 3</p>
+              <i onClick={questionHandler} class="fas fa-chevron-down"></i>
+            </div>
+            <p className="false">
+              respuesta para la pregunta que singifica que algo singidifca que
+              algo saifnasf safk asj fsaj sajaifnasf safk asj fsaj sajaifnasf
+              safk asj fsaj sajaifnasf safk asj fsaj sajaifnasf safk asj fsaj
+              sajaifnasf safk asj fsaj saj
+            </p>
+          </li>
+          <li className="faq-question bor-bott">
+            <div className="faq-question-close">
+              <p>pregunta numero: 4</p>
+              <i onClick={questionHandler} class="fas fa-chevron-down"></i>
+            </div>
+            <p className="false">
+              respuesta para la pregunta que singifica que algo singidifca que
+              algo saifnasf safk asj fsaj saj
+            </p>
+          </li>
+          <li className="faq-question bor-bott">
+            <div className="faq-question-close">
+              <p>pregunta numero: 5</p>
+              <i onClick={questionHandler} class="fas fa-chevron-down"></i>
+            </div>
+            <p className="false">
+              respuesta para la pregunta que singifiaifnasf safk asj fsaj
+              sajaifnasf safk asj fsaj sajaifnasf safk asj fsaj sajca que algo
+              singidifca que algo saifnasf safk asj fsaj saj
             </p>
           </li>
           <li className="faq-question">
